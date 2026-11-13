@@ -1,0 +1,21 @@
+{
+  "name": "vyral-studio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "VYRAL — AI image & video studio with shared MuAPI credits, plans and admin panel",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "catalog": "node --experimental-default-type=module scripts/build-catalog.mjs"
+  },
+  "dependencies": {
+    "better-sqlite3": "^11.7.0",
+    "lucide-react": "^0.468.0",
+    "next": "^15.1.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "stripe": "^17.4.0",
+    "zod": "^3.24.1"
+  }
+}
