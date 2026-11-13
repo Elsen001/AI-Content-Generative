@@ -1,4 +1,4 @@
-# VYRAL Studio - aicontent-ten.vercel.app
+# VYRAL Studio - 🌐 Live website: https://aicontent-ten.vercel.app 
 
 
 A Higgsfield-style AI image & video studio built on top of
