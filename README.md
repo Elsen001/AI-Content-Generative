@@ -1,4 +1,5 @@
-# VYRAL Studio
+# VYRAL Studio - aicontent-ten.vercel.app
+
 
 A Higgsfield-style AI image & video studio built on top of
 [Open-Generative-AI](https://github.com/Elsen001/Open-Generative-AI) and MuAPI.
